@@ -9,7 +9,7 @@ import helmet from "helmet";
 import { mainRouter } from "./Router/index.router";
 
 const server = express();
-const port = helper.port || 3000;
+const port = 8080;
 
 AppDataSource.initialize().then(async () => {
   console.log("db are connected");
