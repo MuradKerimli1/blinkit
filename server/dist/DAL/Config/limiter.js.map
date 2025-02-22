@@ -1,0 +1,1 @@
+{"version":3,"file":"limiter.js","sourceRoot":"","sources":["../../../src/DAL/Config/limiter.ts"],"names":[],"mappings":";;AAAA,2DAA+C;AAE/C,MAAM,OAAO,GAAG,IAAA,8BAAS,EAAC;IACxB,QAAQ,EAAE,EAAE,GAAG,EAAE,GAAG,IAAI;IACxB,KAAK,EAAE,GAAG;IACV,OAAO,EAAC,6BAA6B;IACrC,eAAe,EAAE,SAAS;IAC1B,aAAa,EAAE,KAAK;CACrB,CAAC,CAAC;AACH,kBAAe,OAAO,CAAC"}

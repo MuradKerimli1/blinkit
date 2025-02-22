@@ -1,0 +1,1 @@
+{"version":3,"file":"AppError.js","sourceRoot":"","sources":["../../src/Utility/AppError.ts"],"names":[],"mappings":";;AAAA,MAAM,QAAS,SAAQ,KAAK;IAG1B,YAAY,OAAe,EAAE,MAAc;QACzC,KAAK,CAAC,OAAO,CAAC,CAAC;QACf,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;IACvB,CAAC;CACF;AAED,kBAAe,QAAQ,CAAC"}
